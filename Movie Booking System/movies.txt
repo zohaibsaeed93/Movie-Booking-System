@@ -1,0 +1,35 @@
+Movies in Theater 1:
+Title: Whiplash, Genre: Musical, Timing: 12:00, Price: 5000
+Title: Smile 2, Genre: horror, Timing: 2:00, Price: 1500
+Title: Terrifier 4, Genre: horror, Timing: 3:00, Price: 2500
+Title: The Substance, Genre: adventure, Timing: 4:00, Price: 3000
+Title: 2001 A space odyssey, Genre: sci-fi, Timing: 5:00, Price: 700
+
+Movies in Theater 2:
+Title: Conclave, Genre: mystery, Timing: 11:00, Price: 2001
+Title: Strange Darling, Genre: thriller, Timing: 1:00, Price: 1500
+Title: Caddo lake, Genre: adventure, Timing: 3:30, Price: 1100
+Title: Lalaland, Genre: romantic comedy, Timing: 5:00, Price: 3000
+Title: Inglorius Basterds, Genre: criminal, Timing: 6:00, Price: 1150
+
+Movies in Theater 3:
+Title: It ends with us, Genre: romance, Timing: 10:30, Price: 4000
+Title: Longlegs, Genre: horror, Timing: 12:30, Price: 3500
+Title: Ready or Not?, Genre: action, Timing: 2:15, Price: 1300
+Title: The killing of a sacred Deer, Genre: mystery, Timing: 4:00, Price: 500
+Title: Hereditary, Genre: horror, Timing: 6:15, Price: 900
+
+Movies in Theater 4:
+Title: Barbarian, Genre: thriller, Timing: 12:00, Price: 1100
+Title: Twisters, Genre: adventure, Timing: 1:30, Price: 1700
+Title: Batman, Genre: comic, Timing: 3:00, Price: 1200
+Title: Spiderman: Into the spiderverse, Genre: comic, Timing: 4:45, Price: 950
+Title: Avengers: Endgame, Genre: comic, Timing: 6:00, Price: 3700
+
+Movies in Theater 5:
+Title: Poor things, Genre: thriller, Timing: 11:00, Price: 1800
+Title: Top gun: Maverick, Genre: adventure, Timing: 1:15, Price: 2200
+Title: The Incredibles, Genre: animated, Timing: 3:30, Price: 2700
+Title: Frozen 2, Genre: animated, Timing: 5:00, Price: 3100
+Title: Conjuring 3, Genre: Horror, Timing: 7:00, Price: 2400
+
